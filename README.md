@@ -1,7 +1,7 @@
 # singlecellanalysis
 The code is used for reproduce for publicatioin: XXXX
 
-** scRNA-seq data analysis**
+**scRNA-seq data analysis**
 
 Generally, it can divided into following steps:
 1. merge 14 samples into a matrix file
