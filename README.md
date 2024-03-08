@@ -1,7 +1,7 @@
 # singlecellanalysis
 The code is used for reproduce for publicatioin: XXXX
 
-**inhouse scRNA-seq data analysis**
+** scRNA-seq data analysis**
 
 Generally, it can divided into following steps:
 1. merge 14 samples into a matrix file
@@ -35,6 +35,7 @@ python step6_plot_umap_sample.py
 python step6_plot_genes_dotplot_conditions.py
 
 **paga analysis**
+
 python do_paga.py
 
 **spatial analysis part**
