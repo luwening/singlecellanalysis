@@ -12,5 +12,8 @@ merge_data.py
 4. scripts used for visualization the single cell data
 
 
+spatial analysis part
+python spatial.py
+
 #conda enviroment
 
