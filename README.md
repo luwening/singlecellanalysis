@@ -26,12 +26,28 @@ python step4_populations.py
 
 python step5_subpopulation.py
 
-4. scripts used for visualization the single cell data
+6. scripts used for visualization the single cell data
 
+python step6_plot_genes_umap.py
+
+python step6_plot_umap_sample.py
+
+python step6_plot_genes_dotplot_conditions.py
+
+**paga analysis**
+python do_paga.py
 
 **spatial analysis part**
 
 python spatial.py
 
-#conda enviroment
+**enrichment analysis**
+
+python run_over_representation_analysis_sc_csv.py
+
+python prerank_test.py
+
+**conda enviroment**
+
+details in packages_in_conda.txt
 
