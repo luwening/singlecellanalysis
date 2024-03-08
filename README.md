@@ -12,18 +12,24 @@ python step1_merge_data.py
 
 python step2_preprocess.py
 
-3. extract samples (remove samples with low quality)
+3. extract samples (remove samples with low quality) and bbknn
 
 python step3_extract_samples.py
 
-2. cell population clustering (cell type level)
+python step3_merge_bbknn.py #bbknn
 
-3. CAF subpopulation clustering (sub cell type level)
+4. cell population clustering (cell type level)
+
+python step4_populations.py
+
+5. CAF subpopulation clustering (sub cell type level)
+
+python step5_subpopulation.py
 
 4. scripts used for visualization the single cell data
 
 
-spatial analysis part
+**spatial analysis part**
 python spatial.py
 
 #conda enviroment
